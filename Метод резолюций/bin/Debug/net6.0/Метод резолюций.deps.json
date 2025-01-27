@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Метод резолюций/1.0.0": {
+        "runtime": {
+          "Метод резолюций.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Метод резолюций/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

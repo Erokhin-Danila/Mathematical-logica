@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Минимизация методом Квайна-Маккласки-Петрика/1.0.0": {
+        "runtime": {
+          "Минимизация методом Квайна-Маккласки-Петрика.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Минимизация методом Квайна-Маккласки-Петрика/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
