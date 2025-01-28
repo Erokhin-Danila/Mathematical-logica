@@ -1,7 +1,6 @@
-![sample](https://github.com/Erokhin-Danila/assets/6285b01a-5914-4767-a18d-3380e51b226e)
+![Danila](https://github.com/Erokhin-Danila/Mathematical-logica/blob/master/algoritm_sorting_station/Algoritm_sorting_station.gif)
   
   Данная программа вычисляет выражение в Постфиксной форме (используя стек и очередь)!
-
   Алгоритм сортировочной станции состоит из 4 основных этапов:
 
 1. Алгоритм анализирует выражение слева направо.
