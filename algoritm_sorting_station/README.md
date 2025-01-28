@@ -1,5 +1,4 @@
-  <video src="./Algoritm_sorting_station.mp4" controls width="600"></video>
-  
+![sample](https://github.com/Erokhin-Danila/assets/6285b01a-5914-4767-a18d-3380e51b226e)
   
   Данная программа вычисляет выражение в Постфиксной форме (используя стек и очередь)!
 
